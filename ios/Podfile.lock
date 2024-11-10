@@ -1,0 +1,16 @@
+PODS:
+  - Flutter (3.13.0)
+
+DEPENDENCIES:
+  - Flutter
+
+SPEC REPOS:
+  trunk:
+    - Flutter
+
+SPEC CHECKSUMS:
+  Flutter: 8ff16720b007bae16abfe75ef9fe3ee45ead486a
+
+PODFILE CHECKSUM: 42cba6ae0d3435a9dfb4aa2a5e2fbfff483a1fc8
+
+COCOAPODS: 1.15.2
